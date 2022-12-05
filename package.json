@@ -2,6 +2,10 @@
   "name": "delete-next-image-tag",
   "displayName": "Delete Next Image Tag",
   "description": "deletes the next image tag",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tayiorbeii/vscode-delete-next-image-tag"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
